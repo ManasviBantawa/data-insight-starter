@@ -7,7 +7,8 @@ nav: true
 
 Instructions in `00_visualization.md`
 
-- TODO: write your name
+by Manasvi Bantawa for CMPSC 105 with Professor Graber
+
 - TODO: write the date and course
 - TODO: format the above however you would like
 - TODO: embed an image that showcases your project insight.
